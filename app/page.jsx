@@ -6,7 +6,7 @@ import RelocationSection from "./components/RelocationSection";
 import ContactSection from "./components/ContactSection";
 import "./components/residencia.css";
 
-const WHATSAPP_URL = "https://wa.me/00000000000";
+const WHATSAPP_URL = "https://wa.me/79257231929";
 const TELEGRAM_URL = "https://t.me/your_telegram";
 const FORM_ENDPOINT = "";
 
